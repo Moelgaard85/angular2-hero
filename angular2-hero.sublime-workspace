@@ -1,0 +1,1269 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bs3-b",
+				"bs3-button:warning\tbs3-button-warning"
+			],
+			[
+				"input",
+				"inputt\tinput - text"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"bs3-bu",
+				"bs3-button:success\tbs3-button-success"
+			],
+			[
+				"respo",
+				"responsibleEmployee"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"pull-",
+				"pull-right"
+			],
+			[
+				"DD",
+				"DD-MM-YYYY"
+			],
+			[
+				"tempEmplo",
+				"tempEmployeeWithShifts"
+			],
+			[
+				"padding-",
+				"padding-bottom"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"$lo",
+				"$location\tAngularJS"
+			],
+			[
+				"$",
+				"$location\tAngularJS"
+			],
+			[
+				"insti",
+				"institution"
+			],
+			[
+				"meal",
+				"mealTypeItemController"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"editDe",
+				"editDepartmentItemService"
+			],
+			[
+				"$timeout",
+				"$timeout\tAngularJS"
+			],
+			[
+				"dags",
+				"dagsordenspunkt"
+			],
+			[
+				"masterData",
+				"masterData.$pristine"
+			],
+			[
+				"itemHasR",
+				"itemHasResourcesSorted"
+			],
+			[
+				"galleryIte",
+				"galleryItemController"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"backgroun",
+				"background-size"
+			],
+			[
+				"brea",
+				"word-break"
+			],
+			[
+				"wor",
+				"word-wrap"
+			],
+			[
+				"img",
+				"img\tImage - Placeholder"
+			],
+			[
+				"im",
+				"img\tImage - Placeholder"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"find",
+				"findNewsClicked"
+			],
+			[
+				"$root",
+				"$rootScope\tAngularJS"
+			],
+			[
+				"das",
+				"dashboardController"
+			],
+			[
+				"da",
+				"dashboardController"
+			],
+			[
+				"col",
+				"col-lg-6"
+			],
+			[
+				"coreNew",
+				"coreNewsItemController"
+			],
+			[
+				"aut",
+				"author"
+			],
+			[
+				"lorem",
+				"lorem\tlorem - Short paragraph"
+			],
+			[
+				"lore",
+				"lorem\tlorem - One sentence"
+			],
+			[
+				"form",
+				"form\tform - Placeholder"
+			],
+			[
+				"html",
+				"html5\tSimple HTML5 Boilerplate"
+			],
+			[
+				"string",
+				"String( value: any ): String\tString"
+			],
+			[
+				"body",
+				"body: HTMLElement\tDocument"
+			],
+			[
+				"fun",
+				"fun\tFunction"
+			],
+			[
+				"bookableBoo",
+				"bookableBookingTempObj"
+			],
+			[
+				"bookin",
+				"bookingController"
+			],
+			[
+				"passwordL",
+				"passwordLength"
+			],
+			[
+				"check",
+				"checkPasswords"
+			],
+			[
+				"chec",
+				"checkPasswords"
+			],
+			[
+				"new",
+				"newShift"
+			],
+			[
+				"row",
+				"div.row"
+			],
+			[
+				"edit",
+				"editItem.id"
+			],
+			[
+				"editIn",
+				"editInstitutionItemService"
+			],
+			[
+				"Delete",
+				"DeletedAppTeamRestrictExempts"
+			],
+			[
+				"AppSe",
+				"AppSettingShifts"
+			],
+			[
+				"App",
+				"AppSettingMeals"
+			],
+			[
+				"Institu",
+				"InstitutionPictures"
+			],
+			[
+				"a",
+				"a\tTag"
+			],
+			[
+				"AppS",
+				"AppSettingShifts"
+			],
+			[
+				"editInstitu",
+				"editInstitutionService"
+			],
+			[
+				"image",
+				"new Image()"
+			],
+			[
+				"exif",
+				"exif.Make"
+			],
+			[
+				"profil",
+				"profilvisning"
+			],
+			[
+				"fet",
+				"fetchInstitution"
+			],
+			[
+				"if",
+				"if\tif"
+			],
+			[
+				"sear",
+				"searchResult"
+			],
+			[
+				"tje",
+				"tjenesteplaner"
+			],
+			[
+				"checkI",
+				"checkIfShiftShouldBeDisabled"
+			],
+			[
+				"schedulePl",
+				"schedulePlanController"
+			],
+			[
+				"empl",
+				"employeeItemController"
+			],
+			[
+				"pixa",
+				"pixabaySearchController"
+			],
+			[
+				"blob",
+				"blobArray"
+			],
+			[
+				"pictures",
+				"picturesSelected"
+			],
+			[
+				"shiftCountD",
+				"shiftCountDownFinal"
+			],
+			[
+				"activ",
+				"activityItemService"
+			],
+			[
+				"pi",
+				"pictogramItemController"
+			],
+			[
+				"setEdi",
+				"setEditAttributesOnShifts"
+			],
+			[
+				"HH",
+				"HH:mm"
+			],
+			[
+				"durat",
+				"durationHours"
+			],
+			[
+				"typeI",
+				"typeItemController"
+			],
+			[
+				"create",
+				"createCategoryModal"
+			],
+			[
+				"timeout",
+				"$timeout\tAngularJS"
+			],
+			[
+				"scri",
+				"script\tTag"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"for",
+				"for\tfor (…) {…}"
+			],
+			[
+				"first",
+				"firstInvalid"
+			],
+			[
+				"simple",
+				"simpleSchedulePlanItemService"
+			],
+			[
+				"va",
+				"validateTime"
+			],
+			[
+				"simpleSc",
+				"simpleSchedulePlanItemController"
+			],
+			[
+				"depart",
+				"departmentId"
+			],
+			[
+				"dep",
+				"departmentId"
+			],
+			[
+				"instit",
+				"institutions"
+			],
+			[
+				"butt",
+				"bs3-button:success\tbs3-button-success"
+			],
+			[
+				"inst",
+				"institution.id"
+			],
+			[
+				"conver",
+				"convertedOption"
+			],
+			[
+				"travel",
+				"travelPlanOptions"
+			],
+			[
+				"tra",
+				"travelPlanItemController"
+			],
+			[
+				"min",
+				"minlength\tAttr"
+			],
+			[
+				"form-",
+				"form-group"
+			],
+			[
+				"travelP",
+				"travelPlanItemController"
+			],
+			[
+				"travelPlan",
+				"travelPlanItemService"
+			],
+			[
+				"getNa",
+				"getAppNameById〔function〕"
+			],
+			[
+				"validi",
+				"validityTable"
+			],
+			[
+				"window",
+				"window.location.href"
+			],
+			[
+				"ins",
+				"instanceof〔keyword〕"
+			],
+			[
+				"front",
+				"frontOrder"
+			],
+			[
+				"total",
+				"totalExclusive"
+			],
+			[
+				"screenCon",
+				"screenConfigItemController"
+			],
+			[
+				"get",
+				"getAppNameById"
+			],
+			[
+				"scree",
+				"screenConfigItemService〔argument〕"
+			],
+			[
+				"exter",
+				"externDepartment"
+			],
+			[
+				"round",
+				"description-Math.round()"
+			],
+			[
+				"Floot",
+				"Math.floor()\tMath"
+			],
+			[
+				"ret",
+				"retryAuthController"
+			],
+			[
+				"screenC",
+				"screenConfigItemController"
+			],
+			[
+				"st",
+				"strong\t<strong>"
+			],
+			[
+				"screenConfigItem",
+				"screenConfigItemService"
+			],
+			[
+				"scrollToEle",
+				"scrollToElementRefactored"
+			],
+			[
+				"activit",
+				"activityItemController"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"max",
+				"maxlength\tAttr"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"act",
+				"activityItemController"
+			],
+			[
+				"swi",
+				"switch〔keyword〕"
+			],
+			[
+				"req",
+				"require〔function〕"
+			],
+			[
+				"setW",
+				"setWidgetHeight"
+			],
+			[
+				"setWi",
+				"setWidgetHeightFromDashboard"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 187.0,
+		"last_filter": "gutter",
+		"selected_items":
+		[
+			[
+				"gutter",
+				"SublimeLinter: Choose Gutter Theme"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"read",
+				"ReadmePlease"
+			],
+			[
+				"readme",
+				"ReadmePlease"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"readmeP",
+				"ReadmePlease"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: re",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 546.0
+	},
+	"console":
+	{
+		"height": 183.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/xampp/htdocs/angular2-hero"
+	],
+	"file_history":
+	[
+		"/C/xampp/htdocs/angular2-learning/src/app/home/home.component.ts",
+		"/C/xampp/htdocs/angular2-learning/src/app/home/home.component.html",
+		"/C/xampp/htdocs/angular2-learning/src/app/counter/counter.component.html",
+		"/C/xampp/htdocs/angular2-learning/src/app/about/about.component.html",
+		"/C/xampp/htdocs/angular2-learning/src/app/counter.service.ts",
+		"/C/xampp/htdocs/angular2-learning/src/app/app.module.ts",
+		"/C/xampp/htdocs/angular2-learning/src/app/about/about.component.css",
+		"/C/xampp/htdocs/angular2-learning/src/app/about/about.component.ts",
+		"/C/xampp/htdocs/angular2-learning/src/app/about-child/about-child.component.scss",
+		"/C/xampp/htdocs/angular2-learning/src/app/about-child/about-child.component.html",
+		"/C/xampp/htdocs/angular2-learning/src/app/about-child/about-child.component.ts",
+		"/C/xampp/htdocs/angular2-learning/src/app/app-routing.module.ts",
+		"/C/xampp/htdocs/angular2-learning/src/app/carousel/carousel.component.ts",
+		"/C/xampp/htdocs/angular2-learning/src/app/carousel/carousel.component.html",
+		"/C/xampp/htdocs/angular2-learning/src/styles.css",
+		"/C/xampp/htdocs/angular2-learning/src/app/carousel/carousel.component.css",
+		"/C/xampp/htdocs/angular2-learning/src/app/app.component.scss",
+		"/C/xampp/htdocs/angular2-learning/src/app/app.component.html",
+		"/C/xampp/htdocs/angular2-learning/src/app/app.component.ts",
+		"/C/xampp/htdocs/angular2-learning/src/app/nav/nav.component.ts",
+		"/C/xampp/htdocs/angular2-learning/src/app/about-child/about-child.component.css",
+		"/C/xampp/htdocs/angular2-learning/src/app/nav/nav.component.html",
+		"/C/xampp/htdocs/angular2-learning/src/app/footer/footer.component.html",
+		"/C/xampp/htdocs/angular2-learning/src/app/routing.module.ts",
+		"/C/xampp/htdocs/angular2-learning/package.json",
+		"/C/xampp/htdocs/angular2-learning/src/app/datepicker/datepicker.component.html",
+		"/C/xampp/htdocs/angular2-learning/src/app/datepicker/datepicker.component.ts",
+		"/C/xampp/htdocs/angular2-learning/src/app/datepicker/datepicker.component.css",
+		"/C/xampp/htdocs/angular2-learning/angular-cli.json",
+		"/C/xampp/htdocs/angular2-learning/src/app/footer/footer.component.css",
+		"/C/xampp/htdocs/angular2-learning/src/index.html",
+		"/C/xampp/htdocs/angular2-learning/.gitignore",
+		"/C/xampp/apache/conf/extra/httpd-vhosts.conf",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/xampp/htdocs/ibgv4/app/shared/services/authentication.js",
+		"/C/xampp/htdocs/ibgv4/app/app.module.js",
+		"/C/xampp/htdocs/ibgv4/conf.js",
+		"/C/xampp/htdocs/ibgv4/ibg-manager/app/components/activity/item/activityItem.html",
+		"/C/xampp/htdocs/ibgv4/ibg-manager/assets/css/ibg-fonts.css",
+		"/C/xampp/htdocs/ibgv4/ibg-manager/assets/css/package.css",
+		"/C/xampp/htdocs/ibgv4/ibg-manager/app/components/activity/item/activityItemService.js",
+		"/C/xampp/htdocs/ibgv4/ibg-manager/app/components/meeting/Meeting/item/meetingItem.html",
+		"/C/xampp/htdocs/ibgv4/ibg-manager/app/components/dashboard/item/corenewsItem.html",
+		"/C/xampp/htdocs/ibgv4/ibg-manager/app/components/news/item/newsItem.html",
+		"/C/xampp/htdocs/ibgv4/ibg-manager/assets/external/css/angular-print.css",
+		"/C/xampp/htdocs/ibgv4/ibg-manager/app/components/meeting/Meeting/item/meetingItemController.js",
+		"/C/xampp/htdocs/ibgv4/ibg-manager/app/components/meeting/Meeting/item/meetingItemService.js",
+		"/C/xampp/htdocs/ibgv4/ibg-manager/app/components/activity/activity.html",
+		"/C/xampp/htdocs/ibgv4/ibg-manager/app/shared/templates/print-header.html",
+		"/C/xampp/htdocs/ibgv4/ibg-manager/index.html",
+		"/C/xampp/htdocs/ibgv4/ibg-manager/app/components/shiftPlan/SchedulePlan/schedulePlan.html",
+		"/C/xampp/htdocs/ibgv4/ibg-manager/app/components/shiftPlan/SchedulePlan/_shiftModalNew.html",
+		"/C/xampp/htdocs/ibgv4/ibg-manager/app/components/shiftPlan/SchedulePlan/_shiftModalEdit.html",
+		"/C/xampp/htdocs/ibgv4/ibg-manager/app/components/ourHome/Employee/item/employeeItem.html",
+		"/C/xampp/htdocs/ibgv4/ibg-manager/app/components/media/Video/item/videoItem.html",
+		"/C/xampp/htdocs/ibgv4/ibg-manager/app/components/media/Library/item/libraryItem.html",
+		"/C/xampp/htdocs/ibgv4/ibg-manager/app/components/media/Gallery/item/galleryItem.html",
+		"/C/xampp/htdocs/ibgv4/ibg-manager/app/components/meal/MealTypes/item/mealTypeItem.html",
+		"/C/xampp/htdocs/ibgv4/ibg-manager/app/components/meal/Meals/item/mealItem.html",
+		"/C/xampp/htdocs/ibgv4/ibg-manager/app/components/booking/Bookables/item/bookableItem.html",
+		"/C/xampp/htdocs/ibgv4/ibg-manager/app/components/booking/BookableBookings/item/bookingItem.html",
+		"/C/xampp/htdocs/ibgv4/ibg-manager/app/components/admin/EditInstitution/item/editInstitutionItem.html",
+		"/C/xampp/htdocs/ibgv4/ibg-manager/app/components/admin/EditDepartment/item/editDepartmentItem.html",
+		"/C/xampp/htdocs/ibgv4/ibg-manager/app/components/admin/CoreNews/item/coreNewsItem.html",
+		"/C/xampp/htdocs/ibgv4/ibg-manager/app/app.module.js",
+		"/C/xampp/htdocs/ibgv4/ibg-manager/app/shared/services/imageEditController.js",
+		"/C/xampp/htdocs/ibgv4/ibg-manager/app/shared/templates/image-edit.html",
+		"/C/xampp/htdocs/ibgv4/ibg-manager/package.json",
+		"/C/xampp/htdocs/ibgv4/ibg-manager/app/shared/services/itemService.js",
+		"/C/xampp/htdocs/ibgv4/ibg-manager/app/components/activity/item/activityItemController.js",
+		"/C/xampp/htdocs/ibgv4/ibg-manager/app/components/news/item/newsItemController.js",
+		"/C/xampp/htdocs/ibgv4/ibg-manager/app/shared/services/logging.js",
+		"/C/xampp/htdocs/ibgv4/ibg-manager/app/components/ourHome/Resident/item/residentItem.html",
+		"/C/xampp/htdocs/ibgv4/ibg-manager/app/components/shiftPlan/Type/item/typeItem.html",
+		"/C/xampp/htdocs/ibgv4/ibg-manager/app/components/ourHome/Presentation/item/presentationItem.html",
+		"/C/xampp/htdocs/ibgv4/ibg-manager/app/components/meeting/Agenda/item/agendaItem.html",
+		"/C/xampp/htdocs/ibgv4/ibg-manager/app/components/media/Pictogram/item/pictogramItem.html",
+		"/C/xampp/htdocs/ibgv4/ibg-manager/app/components/meal/MealDishes/item/dishItem.html",
+		"/C/xampp/htdocs/ibgv4/ibg-manager/app/components/support/supportController.js",
+		"/C/xampp/htdocs/ibgv4/ibg-manager/app/components/support/support.html",
+		"/C/Users/Stationaer/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/C/xampp/htdocs/ibgv4/ibg-manager/app/components/shiftPlan/SchedulePlan/schedulePlanController.js",
+		"/C/xampp/htdocs/ibgv4/ibg-manager/assets/external/js/init/03_moment-with-locales-2.17.1.min.js",
+		"/C/xampp/htdocs/ibgv4/ibg-manager/app/components/admin/ScreenConfig/item/screenConfigItem.html",
+		"/C/xampp/htdocs/ibgv4/ibg-manager/app/components/admin/ScreenConfig/item/screenConfigItemController.js",
+		"/C/xampp/htdocs/ibgv4/ibg-manager/app/components/admin/ScreenConfig/item/screenConfigItemService.js",
+		"/C/xampp/htdocs/ibgv4/ibg-manager/app/components/admin/TravelPlan/item/travelPlanItemController.js",
+		"/C/xampp/htdocs/ibgv4/ibg-manager/app/shared/directives/directives.js",
+		"/C/xampp/htdocs/ibgv4/ibg-manager/assets/external/js/features/angular-print.js",
+		"/C/xampp/htdocs/ibgv4/ibg-manager/app/components/dashboard/dashboard.html",
+		"/C/xampp/htdocs/ibgv4/ibg-manager/app/components/main/mainController.js",
+		"/C/xampp/htdocs/ibgv4/ibg-manager/app/components/ourHome/Resident/residentController.js",
+		"/C/xampp/htdocs/ibgv4/ibg-manager/app/components/dashboard/item/corenewsItemController.js",
+		"/C/xampp/htdocs/ibgv4/ibg-manager/app/app.ui-routes.js",
+		"/C/xampp/htdocs/ibgv4/ibg-manager/app/components/meal/Meals/meal.html",
+		"/C/xampp/htdocs/ibgv4/ibg-manager/app/components/admin/CoreNews/item/coreNewsItemController.js",
+		"/C/xampp/htdocs/ibgv4/ibg-manager/app/components/meal/MealTypes/mealType.html",
+		"/C/xampp/htdocs/ibgv4/ibg-manager/app/components/ourHome/Presentation/presentation.html",
+		"/C/xampp/htdocs/ibgv4/ibg-manager/app/components/media/Gallery/item/galleryItemService.js",
+		"/C/xampp/htdocs/ibgv4/ibg-manager/app/shared/services/authentication.js",
+		"/C/xampp/htdocs/ibgv4/app/components/changeLogin/changeLoginController.js",
+		"/C/xampp/htdocs/ibgv4/app/components/login/loginController.js",
+		"/C/xampp/htdocs/ibgv4/ibg-manager/app/components/login/loginController.js",
+		"/C/xampp/htdocs/ibgv4/ibg-manager/app/components/ourHome/Resident/item/residentItemController.js",
+		"/C/xampp/htdocs/ibgv4/ibg-manager/app/components/ourHome/Employee/item/employeeItemService.js",
+		"/C/xampp/htdocs/ibgv4/app/components/changeLogin/changeLogin.html",
+		"/C/xampp/htdocs/ibgv4/app/components/login/login.html",
+		"/C/xampp/htdocs/ibgv4/app/app.routes.js",
+		"/C/xampp/htdocs/ibgv4/app/shared/services/itemService.js",
+		"/C/xampp/htdocs/ibgv4/app/shared/services/LB.js",
+		"/C/xampp/htdocs/ibgv4/ibg-manager/app/components/meal/Meals/mealController.js",
+		"/C/xampp/htdocs/ibgv4/assets/css/style.css",
+		"/C/xampp/htdocs/ibgv4/ibg-manager/app/components/ourHome/Employee/item/employeeItemController.js",
+		"/C/xampp/htdocs/ibgv4/assets/css/animate.css",
+		"/C/xampp/htdocs/ibgv4/lb-services.massive.js",
+		"/C/xampp/htdocs/ibgv4/ibg-manager/app/shared/services/LB.js",
+		"/C/xampp/htdocs/ibgv4/ibg-manager/app/components/media/Gallery/gallery.html",
+		"/C/xampp/htdocs/ibgv4/ibg-manager/app/components/media/Gallery/galleryController.js",
+		"/C/xampp/htdocs/ibgv4/ibg-manager/app/components/meal/Meals/item/mealItemController.js",
+		"/C/xampp/htdocs/ibgv4/ibg-manager/app/components/meal/Meals/item/mealItemService.js",
+		"/C/xampp/htdocs/ibgv4/ibg-manager/app/components/admin/EditInstitution/item/editInstitutionItemService.js",
+		"/C/xampp/htdocs/ibgv4/ibg-manager/app/components/admin/EditInstitution/item/editInstitutionItemController.js",
+		"/C/xampp/htdocs/ibgv4/ibg-manager/app/components/meal/MealTypes/item/mealTypeItemController.js",
+		"/C/xampp/htdocs/ibgv4/ibg-manager/app/components/meal/MealTypes/item/mealTypeItemService.js",
+		"/C/xampp/htdocs/ibgv4/ibg-manager/app/components/admin/TravelPlan/item/travelPlanItem.html",
+		"/C/xampp/htdocs/ibgv4/ibg-manager/app/components/meal/MealTypes/mealTypeController.js",
+		"/C/xampp/htdocs/ibgv4/ibg-manager/app/components/media/Pictogram/item/pictogramItemController.js",
+		"/C/xampp/htdocs/ibgv4/ibg-manager/app/components/media/Library/item/libraryItemController.js"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 279.0,
+		"where_history":
+		[
+			"C:\\xampp\\htdocs\\angular2-learning\\node_modules",
+			"C:\\xampp\\htdocs\\ibgv4\\ibg-manager\\app\\components",
+			"C:\\xampp\\htdocs\\ibgv4\\ibg-manager",
+			"C:\\xampp\\htdocs\\ibgv4\\ibg-manager\\app",
+			"C:\\xampp\\htdocs\\ibgv4\\ibg-manager\\app\\components",
+			"C:\\xampp\\htdocs\\ibgv4\\ibg-manager\\app\\components\\meal\\MealTypes",
+			"C:\\xampp\\htdocs\\ibgv4\\ibg-manager\\app\\components",
+			"C:\\xampp\\htdocs\\ibgv4\\ibg-manager\\app\\components\\admin\\EditDepartment",
+			"C:\\xampp\\htdocs\\ibgv4\\ibg-manager\\app\\components",
+			"C:\\xampp\\htdocs\\ibgv4\\ibg-manager",
+			"C:\\xampp\\htdocs\\ibgv4\\ibg-manager\\app",
+			"C:\\xampp\\htdocs\\ibgv4\\ibg-manager",
+			"C:\\xampp\\htdocs\\ibgv4\\ibg-manager\\app",
+			"C:\\xampp\\htdocs\\ibgv4\\ibg-manager",
+			"C:\\xampp\\htdocs\\ibgv4\\ibg-manager\\app",
+			"C:\\xampp\\htdocs\\ibgv4\\ibg-manager",
+			"C:\\xampp\\htdocs\\ibgv4\\ibg-manager\\app",
+			"C:\\xampp\\htdocs\\ibgv4\\ibg-manager",
+			"C:\\xampp\\htdocs\\ibgv4\\ibg-manager\\app\\components",
+			"C:\\xampp\\htdocs\\ibgv4\\ibg-manager\\app",
+			"C:\\xampp\\htdocs\\ibgv4\\ibg-manager",
+			"C:\\xampp\\htdocs\\ibgv4\\ibg-manager\\assets\\external\\js\\features",
+			"C:\\xampp\\htdocs\\ibgv4\\ibg-manager\\app",
+			"C:\\xampp\\htdocs\\ibgv4\\ibg-manager\\app\\components",
+			"C:\\xampp\\htdocs\\ibgv4\\ibg-manager\\app",
+			"C:\\xampp\\htdocs\\ibgv4\\ibg-manager",
+			"C:\\xampp\\htdocs\\ibgv4\\ibg-manager\\app",
+			"C:\\xampp\\htdocs\\ibgv4\\ibg-manager\\app\\components",
+			"C:\\xampp\\htdocs\\ibgv4\\ibg-manager\\app\\components\\shiftPlan",
+			"C:\\xampp\\htdocs\\ibgv4\\ibg-manager\\app\\components\\shiftPlan\\SchedulePlan",
+			"C:\\xampp\\htdocs\\ibgv4\\ibg-manager\\app",
+			"C:\\xampp\\htdocs\\ibgv4\\ibg-manager\\app\\shared",
+			"C:\\xampp\\htdocs\\ibgv4\\ibg-manager\\app\\components",
+			"C:\\xampp\\htdocs\\ibgv4\\ibg-manager",
+			"C:\\xampp\\htdocs\\ibgv4\\ibg-manager\\app\\components",
+			"C:\\xampp\\htdocs\\ibgv4\\ibg-manager\\app",
+			"C:\\xampp\\htdocs\\ibgv4\\ibg-manager\\app\\components",
+			"C:\\xampp\\htdocs\\ibgv4\\ibg-manager\\app",
+			"C:\\xampp\\htdocs\\ibgv4\\ibg-manager\\app\\components",
+			"C:\\xampp\\htdocs\\ibgv4\\ibg-manager",
+			"C:\\xampp\\htdocs\\ibgv4",
+			"C:\\xampp\\htdocs\\ibgv4\\ibg-manager",
+			"C:\\xampp\\htdocs\\ibgv4\\ibg-manager\\app\\components",
+			"C:\\xampp\\htdocs\\ibgv4\\ibg-manager",
+			"C:\\xampp\\htdocs\\ibgv4\\ibg-screen\\app\\components\\activityclub\\activityclubService.js",
+			"C:\\xampp\\htdocs\\ibgv4\\ibg-screen\\app\\components\\activitiescustom\\activitiesCustomService.js",
+			"C:\\xampp\\htdocs\\ibgv4\\ibg-screen",
+			"C:\\xampp\\htdocs\\ibgv4\\ibg-manager\\app",
+			"C:\\xampp\\htdocs\\ibgv4\\ibg-manager\\app\\components",
+			"C:\\xampp\\htdocs\\ibgv4\\ibg-manager\\app",
+			"C:\\xampp\\htdocs\\ibgv4\\ibg-manager",
+			"C:\\xampp\\htdocs\\ibgv4\\ibg-manager\\app\\components",
+			"C:\\xampp\\htdocs\\ibgv4\\ibg-manager\\app\\components\\shiftPlan\\SchedulePlan\\_shiftModalEditController.js",
+			"C:\\xampp\\htdocs\\ibgv4\\ibg-manager\\app\\components",
+			"C:\\xampp\\htdocs\\ibgv4\\app",
+			"C:\\xampp\\htdocs\\ibgv4\\ibg-manager\\app\\components\\admin\\TravelPlan",
+			"C:\\xampp\\htdocs\\ibgv4\\ibg-manager\\app\\components",
+			"C:\\xampp\\htdocs\\ibgv4\\ibg-screen",
+			"C:\\xampp\\htdocs\\ibgv4\\ibg-manager\\app",
+			"C:\\xampp\\htdocs\\ibgv4\\ibg-manager",
+			"C:\\xampp\\htdocs\\ibgv4\\app",
+			"C:\\xampp\\htdocs\\ibgv4\\ibg-manager",
+			"C:\\xampp\\htdocs\\ibgv4\\ibg-manager\\app",
+			"C:\\xampp\\htdocs\\ibgv4\\ibg-manager",
+			"C:\\xampp\\htdocs\\ibgv4\\ibg-manager\\app",
+			"C:\\xampp\\htdocs\\ibgv4\\ibg-manager",
+			"C:\\xampp\\htdocs\\ibgv4\\ibg-manager\\app",
+			"C:\\xampp\\htdocs\\ibgv4\\ibg-manager\\app\\components",
+			"C:\\xampp\\htdocs\\ibgv4\\ibg-manager\\app\\components\\activity",
+			"C:\\xampp\\htdocs\\ibgv4\\ibg-manager\\app\\components",
+			"C:\\xampp\\htdocs\\ibgv4\\ibg-manager\\app\\components\\meal\\Meals\\mealController.js",
+			"C:\\xampp\\htdocs\\ibgv4\\ibg-manager\\app\\components",
+			"C:\\xampp\\htdocs\\ibgv4\\ibg-manager\\app\\components\\activity\\item\\activityItemController.js",
+			"C:\\xampp\\htdocs\\ibgv4\\ibg-manager\\app\\components\\meeting\\Meeting\\item\\meetingItemController.js",
+			"C:\\xampp\\htdocs\\ibgv4\\ibg-manager\\app\\components\\news\\item\\newsItemController.js",
+			"C:\\xampp\\htdocs\\ibgv4\\ibg-manager\\app\\components\\meeting\\Meeting\\item\\meetingItemController.js",
+			"C:\\xampp\\htdocs\\ibgv4\\ibg-manager",
+			"C:\\xampp\\htdocs\\ibgv4\\ibg-manager\\app\\components\\news\\item\\newsItemController.js",
+			"C:\\xampp\\htdocs\\ibgv4\\ibg-manager\\app\\components",
+			"C:\\xampp\\htdocs\\ibgv4\\ibg-manager",
+			"C:\\xampp\\htdocs\\ibgv4\\ibg-manager\\app\\components",
+			"C:\\xampp\\htdocs\\ibgv4\\ibg-manager\\app\\components\\news\\item\\newsItemController.js",
+			"C:\\xampp\\htdocs\\ibgv4\\ibg-manager",
+			"C:\\xampp\\htdocs\\ibgv4\\ibg-manager\\app\\components\\news\\item\\newsItemController.js",
+			"C:\\xampp\\htdocs\\ibgv4\\ibg-manager\\app\\components\\news\\newsController.js",
+			"C:\\xampp\\htdocs\\ibgv4\\ibg-manager\\app\\components\\news",
+			"C:\\xampp\\htdocs\\ibgv4\\ibg-manager\\app\\components",
+			"C:\\xampp\\htdocs\\ibgv4\\ibg-manager\\app\\components\\admin\\Department",
+			"C:\\xampp\\htdocs\\ibgv4\\ibg-manager\\app\\components\\admin\\Institution",
+			"C:\\xampp\\htdocs\\ibgv4\\ibg-manager\\app\\components\\admin\\GeneralSettings",
+			"C:\\xampp\\htdocs\\ibgv4\\ibg-manager",
+			"C:\\xampp\\htdocs\\ibgv4\\ibg-manager\\app\\components\\dashboard",
+			"C:\\xampp\\htdocs\\ibgv4\\ibg-manager\\app\\components",
+			"C:\\xampp\\htdocs\\ibgv4\\app",
+			"C:\\xampp\\htdocs\\ibgv4\\app\\components",
+			"C:\\xampp\\htdocs\\ibgv4\\ibg-manager\\app\\components\\booking\\Bookables\\bookable.html",
+			"C:\\xampp\\htdocs\\ibgv4\\ibg-manager\\app\\components\\admin\\ScreenConfig",
+			"C:\\xampp\\htdocs\\ibgv4\\ibg-manager\\app\\components\\admin\\ScreenSettings",
+			"C:\\xampp\\htdocs\\ibgv4\\ibg-manager\\app\\shared\\templates",
+			"C:\\xampp\\htdocs\\ibgv4\\ibg-manager\\app\\components",
+			"C:\\xampp\\htdocs\\ibgv4",
+			"C:\\xampp\\htdocs\\ibgv4\\ibg-manager",
+			"C:\\xampp\\htdocs\\ibgv4\\ibg-manager\\app",
+			"C:\\xampp\\htdocs\\ibgv4\\ibg-responsive\\assets\\css",
+			"C:\\xampp\\htdocs\\ibgv4\\ibg-manager\\app",
+			"C:\\xampp\\htdocs\\ibgv4\\ibg-manager",
+			"C:\\xampp\\htdocs\\ibgv4\\ibg-manager\\app\\components\\booking\\BookableBookings\\bookableBookingController.js",
+			"C:\\xampp\\htdocs\\ibgv4\\ibg-manager\\app\\components\\meeting\\Meeting\\meetingController.js",
+			"C:\\xampp\\htdocs\\ibgv4\\ibg-manager\\app\\components\\activity\\activityController.js",
+			"C:\\xampp\\htdocs\\ibgv4\\ibg-manager\\app\\components",
+			"C:\\xampp\\htdocs\\ibgv4\\ibg-manager",
+			"C:\\xampp\\htdocs\\ibgv4\\ibg-manager\\app\\components",
+			"C:\\xampp\\htdocs\\ibgv4",
+			"C:\\xampp\\htdocs\\ibgv4\\ibg-manager\\assets\\css\\package.css",
+			"C:\\xampp\\htdocs\\ibgv4\\ibg-manager\\app\\components",
+			"C:\\xampp\\htdocs\\ibgv4\\ibg-screen\\assets\\js",
+			"C:\\xampp\\htdocs\\ibgv4\\ibg-manager\\app\\components",
+			"C:\\xampp\\htdocs\\ibgv4\\ibg-manager\\app\\components\\ourHome\\Resident\\resident.html",
+			"C:\\xampp\\htdocs\\ibgv4\\ibg-manager",
+			"C:\\xampp\\htdocs\\ibgv4\\ibg-manager\\app\\components",
+			"C:\\xampp\\htdocs\\ibgv4\\ibg-manager",
+			"C:\\xampp\\htdocs\\ibgv4\\ibg-manager\\app\\components",
+			"C:\\xampp\\htdocs\\ibgv4\\ibg-manager\\app\\components\\activity\\activityController.js",
+			"C:\\xampp\\htdocs\\ibgv4\\ibg-manager\\app\\components",
+			"C:\\xampp\\htdocs\\ibgv4\\ibg-manager\\app\\components\\ourHome\\Resident\\resident.html",
+			"C:\\xampp\\htdocs\\ibgv4\\ibg-manager\\app\\components",
+			"C:\\xampp\\htdocs\\ibgv4\\ibg-manager\\app\\shared\\services\\generalService.js",
+			"C:\\xampp\\htdocs\\ibgv4\\ibg-manager\\app\\components\\support"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"button",
+			"course",
+			"newCourse",
+			"data",
+			"newDino",
+			"data",
+			"li",
+			"dino-wrapper",
+			"boolean",
+			"elementToggled",
+			"elementShow",
+			"true",
+			"trur",
+			"button",
+			"Home",
+			"nature",
+			"baseline",
+			"DatepickerModule",
+			"font",
+			"ibg-angular2",
+			"redirectTo",
+			"event",
+			"getCurrent",
+			"new",
+			"activity",
+			"bottom",
+			"print-image",
+			"3",
+			"20",
+			"responsible",
+			"responsibleEmployee",
+			"Employee",
+			"firstname",
+			"signups",
+			"pictograms",
+			"text",
+			"left",
+			"\" >",
+			"\" ",
+			"style=\"display:block\"",
+			"top",
+			"style=\"border: 1px solid #000\"",
+			"nopadding",
+			"endDate",
+			"pris",
+			"margin-right: 2px;",
+			"border: 1px solid transparent; */",
+			"padding: 20px 6px 0 6px;",
+			"ui-details-image",
+			"Resident",
+			"suggestionEmployee",
+			"SuggestionEmployee",
+			"suggestionEmployee",
+			"MeetingSuggestionEmployees",
+			"9",
+			"listDisplayTime",
+			"Hvornår",
+			"printThisElement",
+			"</ui-select>",
+			"ui-select",
+			"tab6",
+			" position=\"down\"",
+			"position=\"down\"",
+			" position=\"down\"",
+			"position=\"down\"",
+			"tab2",
+			"imgEditWrapper ",
+			"printSectionHidden",
+			"changeUploadPicturesUniversal",
+			"ngfBlobUrl",
+			"$ngfName",
+			"tab2",
+			"changeUploadPicturesUniversal \nchangeUploadPicturesUniversal ",
+			"<<<",
+			"<<",
+			"tab4",
+			"<<<",
+			"print-header",
+			" editItem.description.split(\"\\n\").length - 1",
+			"editItem.description.length",
+			"line",
+			"updateDays",
+			"$scope.mondayDate",
+			"mondayDate",
+			"$scope.employeesWithShifts = tempEmployeeWithShifts;",
+			"currentlyActive",
+			"tempEmployeeWithShifts",
+			"Things",
+			"setEditAttributesOnShifts",
+			"employeesWithShifts",
+			"checkIfShiftShouldBeDisabled",
+			"disabledShift",
+			"\\n",
+			"Delete",
+			"getConte",
+			"myCustomer",
+			"dataset",
+			"TITLE",
+			"luk",
+			"btn-warning",
+			"closeBtn",
+			"ngPrint",
+			"eksis",
+			"labelHeadline",
+			"Deltagere",
+			"ui-view",
+			"ui-v",
+			"scope",
+			"LB",
+			"ngf-thumbnail",
+			"changeUploadPictures",
+			"tab2",
+			"delret",
+			"opret del",
+			"tab2",
+			"changeUploadPictures",
+			"tab2",
+			"$scope.editItem.PictureHandler",
+			"dimensions.height",
+			"newFiles[i]",
+			"dimensions.height",
+			"resizeIf",
+			"width",
+			"files",
+			"width",
+			"files",
+			"boolean",
+			"item.Resources sorted"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"mealTypeController",
+			"<div class=\"col-xs-12 submenu\">",
+			"Maks.",
+			"<strong>Klik her</strong> - eller træk og slip",
+			"<label>Fra din computer</label>",
+			"<strong>Klik her</strong> - eller træk og slip",
+			"Tilknyt billede(r) –via upload eller fra online-bibliotek",
+			"Vis tidligere",
+			"maxlength",
+			"\n\n",
+			"\n",
+			"Dream Broker",
+			"Der kan ikke tilføjes flere videoer",
+			"defer.resolve(response);",
+			"defer.reject(err);",
+			"defer.resolve(response);",
+			"Upload billeder fra din computer",
+			"shiftModalEditController",
+			"{{imageError(invalidFile.$error)}} - (programfejl: {{invalidFile.$error}})",
+			"Upload billeder fra din computer ved at klikke her eller træk og slip",
+			"Vælg billeder fra din computer ved at klikke her eller træk og slip",
+			"Vælg billeder fra din computer ved at klikke eller træk og slip",
+			"Vælg billeder fra din computer her ved at klikke eller træk og slip",
+			"// Watch changes made to masterData to set update btn\n        $scope.$watch('masterData', function() {\n          // Make sure its loaded (when changing routes it becomes undefined in the momemt and throws an error)\n          if ($scope.masterData) {\n            $log.debug($scope.masterData);\n            $scope.masterData.$pristine = false;\n          }\n        });",
+			"itemService.capitalizeFirstLetter",
+			"LB.compareRelationArraysAndLinkAll(\"Activity\",",
+			"LB.compareRelationArraysAndLinkAll",
+			"itemService.compareRelationArraysAndLinkAll(\"Meeting\"",
+			"itemService.filterResourceHandler",
+			"LB.unlink(\"News\", ",
+			"LB.link(\"News\", ",
+			"itemService",
+			"itemFilterService",
+			"newsItemService.confirmDeletePrepareItem",
+			"filterItemService.checkAndSetDateAndTime",
+			"user.isInstitution",
+			"user.isSuperuser",
+			"department",
+			"institution",
+			"generalSettingsService",
+			"generalSettings",
+			"dashboard",
+			"Dokumenter",
+			"Interval",
+			"interval",
+			"intervaller",
+			"Intervaller",
+			"screenConfig",
+			"efterfølgende",
+			"<div class=\"message\" ng-hide=\"isEditing\">",
+			"Dette kan ikke fortrydes efterfølgene !",
+			"Flash.create(\"error\"",
+			"generalService.checkAndSetDateAndTime",
+			"#27AE61",
+			"width: 999",
+			"",
+			"item-title",
+			"data-toggle=\"tooltip\" data-placement=\"bottom\"",
+			"<i class=\"fa fa-trash-o\"></i>",
+			"<i class=\"fa fa-clone\"></i>",
+			"<i class=\"fa fa-floppy-o\"></i></li>",
+			"<i class=\"fa fa-floppy-o\"></i>",
+			"<i class=\"fa fa-pencil-square-o\"></i>",
+			"<i class=\"fa fa-floppy-o\"></i>",
+			"}, 200);",
+			"https://youtu.be/BdfWOtNHVe4",
+			"https://www.youtube.com/watch?v=BdfWOtNHVe4",
+			"addVideo()",
+			"https://youtu.be/zwZinOX-Vf0",
+			"https://www.youtube.com/watch?v=zwZinOX-Vf0",
+			"<h4 class=\"media-heading\"><span ng-show=\"editItem.firstname && editItem.lastname\">{{editItem.firstname}} {{editItem.lastname}}</span></h4>",
+			"<h4 class=\"media-heading\"><span ng-show=\"editItem.title\">{{editItem.title}}</span></h4>",
+			"<i class=\"fa fa-home ui-details-department\" ng-style=\"{'color': externDepartment.color}\"></i>",
+			"<i class=\"fa fa-home ui-details-department\" ng-style=\"{'color': department.color}\"></i>",
+			"<!-- <button type=\"button\" class=\"btn btn-default pull-left flat\" ng-disabled=\"true\" data-dismiss=\"modal\" ng-click=\"deleteCategoryItem(editCategoryItem, editCategoryData)\"><i class=\"fa fa-trash-o\"></i> Slet</button> -->",
+			"generalService",
+			"support",
+			"HH:ss [ - ] ",
+			"<i class=\"fa fa-retweet\"></i>",
+			"<span ng-if=\"item.isRepeat\" class=\"pull-right\"><i class=\"fa fa-retweet\"></i></span>",
+			"Fejl: '{{invalidFile.path || invalidFile.name}}' blev valgt fra (fejl: {{invalidFile.$error}})",
+			"Fejl: '{{invalidFile.name}}' blev valgt fra (fejl: {{invalidFile.$error}})",
+			"<div ng-bind-html=\"employee.lastname | highlight: $select.search\" style=\"display: inline-block;\"></div>",
+			"<div ng-bind-html=\"resident.lastname | highlight: $select.search\" style=\"display: inline-block;\"></div>",
+			"{{$index}} - Valideringsfejl: '{{invalidFile.path || invalidFile.name}}' blev valgt fra (fejl: {{invalidFile.$error}})</li>",
+			"Nyhedens normale 'Opdater' bruges ikke til ændringer på denne side.",
+			"uib-accordion ",
+			"uib-accordion-group",
+			"UibAccordionController",
+			"uib-accordion-heading",
+			"uib-datepicker-popup=\"dd/MM/yyyy\"",
+			"uib-datepicker-popup",
+			"borgere",
+			"borger",
+			"Borgere",
+			"datepicker-options=\"dateOptions\"",
+			"",
+			"<a class=\"link\" href=\"\" ng-click=\"reloadRoute()\"><i class=\"fa fa-refresh\">",
+			"<aside class=\"col-md-3 col-lg-2 main-sidebar nopadding\">",
+			"<div class=\"col-md-9 col-lg-10 content-wrapper\">",
+			"$scope.editItem",
+			"editItem.",
+			"normale 'Opdater' bruges ikke til ændringer på denne side, men andre ændringer bruger 'Opdater' som normalt.",
+			"Video",
+			"newVideo",
+			"videoFile",
+			"editExistingVideo",
+			"PDFeditExisting",
+			"PDFnew",
+			"beboere",
+			"Beboere",
+			"Beboer",
+			"beboer",
+			"video",
+			"MeetingAgendas",
+			"MeetingAgenda",
+			"Agenda",
+			"agenda",
+			"Resource",
+			"Resources",
+			"Resource",
+			"pictogram",
+			"editItem.RRuleSettings",
+			"$scope.editItem.RRuleSettings",
+			"editItem.editExistingPic",
+			"isRepeat",
+			"<i class=\"fa fa-trash-o\"></i>SLETTET",
+			"bookableBookingService"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 30.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "angular2-hero.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"read",
+				"README.md"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\xampp\\htdocs\\ibg-migration\\bgp.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 112.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 378.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 427.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
