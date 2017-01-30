@@ -8,12 +8,13 @@ export class HeroService {
 
   constructor() { }
 
+  // Normal promise call (but immediatly)
   getHeroes(): Promise<Hero[]> {
     return Promise.resolve(HEROES);
   }
 
+  // Simulate 2 second server response
   getHeroesSlowly(): Promise<Hero[]> {
-    // Simulate 2 second server response
     return new Promise(resolve => {
       setTimeout(() => resolve(this.getHeroes()), 2000);
     });
